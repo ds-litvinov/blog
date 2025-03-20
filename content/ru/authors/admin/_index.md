@@ -36,17 +36,19 @@ profiles:
     url: https://scholar.google.com/
 
 interests:
-  - ИИ
-  - Менеджмент
-  - Спортзал
+  - Цифровизация бизнеса
+  - Анализ данных и бизнес-аналитика
+  - Разработка и внедрение IT-решений для бизнеса
+  - Финансовые технологии (FinTech)
+  - Управление проектами и стартапами
 
 education:
   - area: Student
     institution: RUDN
     date_start: 2024-09-01
     date_end: 2028-05-31
-    summary: 
-      
+    summary: Студент направления "Бизнес-информатика". Интересуюсь интеграцией IT-технологий в бизнес-процессы, анализом данных и оптимизацией бизнес-операций с помощью цифровых решений.
+
 work:
   - position: Student
     company_name: RUDN
@@ -54,44 +56,51 @@ work:
     company_logo: ''
     date_start: 2024-09-01
     date_end: ''
-    summary: 
+    summary: Участвую в учебных проектах, которые связаны с бизнес-аналитикой, оптимизацией бизнес-процессов и разработкой IT-решений для бизнеса.
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
+# Add your own SVG icons to assets/media/icons/
 skills:
   - name: Хард скиллы
     items:
       - name: Python
-        description: ''
-        percent: 60
+        description: Программирование для анализа данных и разработки бизнес-приложений.
+        percent: 70
         icon: code-bracket
-      - name: Переговоры
-        description: ''
-        percent: 80
-        icon: chart-bar
-      - name: DataScience
-        description: ''
-        percent: 40
-        icon: circle-stack
+      - name: SQL
+        description: Работа с базами данных, написание запросов для анализа данных.
+        percent: 65
+        icon: database
+      - name: Excel и Google Sheets
+        description: Создание отчетов и анализ данных с использованием формул и сводных таблиц.
+        percent: 85
+        icon: table-cells
+      - name: Project Management
+        description: Основы управления проектами, использование методов и инструментов для планирования и контроля.
+        percent: 60
+        icon: project-diagram
   - name: Хобби
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Прогулки
-        description: ''
-        percent: 75
-      - name: Спортзал
-        description: ''
-        percent: 100
-      - name: Языки
-        description: ''
+      - name: Стартапы
+        description: Увлекаюсь созданием стартапов и развитием новых бизнес-идей.
         percent: 80
+      - name: Спортивные игры
+        description: Играю в баскетбол и футбол, участвую в любительских турнирах.
+        percent: 90
+      - name: Путешествия
+        description: Люблю открывать новые города и культуры.
+        percent: 75
 
 languages:
   - name: Русский
     percent: 100
   - name: Английский
-    percent: 60
+    percent: 70
+  - name: Немецкий
+    percent: 50
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
